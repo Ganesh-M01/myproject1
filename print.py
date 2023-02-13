@@ -1,1 +1,1 @@
-print("this is sample");
+printf("This Is 'NOT' A Sample");
